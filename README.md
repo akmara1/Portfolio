@@ -1,25 +1,42 @@
-# PortfolioMidProject
+# My Portfolio
 
-Hi, I'm Akmaral. I created web-site portfolio of myself which contains information about me. I wrote code in HTML/CSS and Javasript. At the home page you can see navBar. There is tabs easily goes to any page. 
+Hi there! Welcome to my portfolio. This is where I showcase my work, skills, and a bit about myself. Whether you're an employer, colleague, or just a curious visitor, I hope you find something interesting here.
 
-![Screenshot from 2022-11-04 08-43-48](https://user-images.githubusercontent.com/95084923/199874138-d7b12fc5-ebc2-4c2d-9784-e820b1640852.png)
+## Features
 
-Skills page
+- Interactive tabs for easy navigation.
+- Detailed information about my skills, education, and work experience.
+- Showcase of projects I've worked on.
+- An API section for generating fun activities.
+- A gallery with some of my favorite images.
+- Embedded YouTube videos.
+- Contact information for getting in touch with me.
 
-![Screenshot from 2022-11-04 08-43-57](https://user-images.githubusercontent.com/95084923/199874450-edb79acc-3d53-4bdb-a012-22bf0f127d36.png)
-Little information about me ![Screenshot from 2022-11-04 08-44-19](https://user-images.githubusercontent.com/95084923/199874535-0470d6dc-ad51-42a3-a0c6-e90b6833857d.png)
+## Technologies
 
-Projects that I did at university 
+- HTML/CSS
+- JavaScript
 
-![Screenshot from 2022-11-04 08-44-26](https://user-images.githubusercontent.com/95084923/199874804-e2e0aac9-cf44-4400-802b-c9efadb900bd.png)
-Buttons. You can asses my portfolio. ![Screenshot from 2022-11-04 08-44-53](https://user-images.githubusercontent.com/95084923/199874974-f8d70f36-d50c-48fd-ad84-e22541531a52.png)
+## How to View
 
-![Screenshot from 2022-11-04 08-53-09](https://user-images.githubusercontent.com/95084923/199875001-648340df-72f3-4b47-ae17-90f1c5ecfc4c.png)
+You can view my portfolio online on GitHub Pages. Just follow this link: [View My Portfolio](https://akmara1.github.io/Portfolio/)
 
-Api part. You can choose any activity to do when you are bored. 
+If you want to run it locally, you can clone the repository and open the `index.html` file in your web browser.
 
-![Screenshot from 2022-11-04 08-45-05](https://user-images.githubusercontent.com/95084923/199875153-87e9ae1b-8b56-49d8-b2d5-44b563a4169c.png)
+## Screenshots
 
-I embeded viideo from youtube. At the bottom you can see contacts. 
+- Home Page and About Page
+  ![Home Page](img/home.png)
+  
 
-![Screenshot from 2022-11-04 08-45-14](https://user-images.githubusercontent.com/95084923/199875243-b858eb18-4f65-4bc4-8a1a-1d957427111a.png)
+- My Resume
+  ![Resume](img/resume.png)
+
+- My projects
+  ![My projects](img/projects.png)
+
+- Api part. You can choose any activity to do when you are bored.
+  ![Api part](img/api.png)
+
+- Gallery and Contacts. I put random photographies from my phone that I have taken.
+  ![My projects](img/gallery.png)
