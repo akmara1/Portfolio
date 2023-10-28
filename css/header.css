@@ -1,0 +1,42 @@
+/* Style for the entire header section */
+.header {
+    background-color: #333; /* Change to your desired background color */
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  /* Style for the container within the header */
+  .container {
+    max-width: 1110px;
+    margin: 0 auto;
+  }
+  
+  /* Style for the header content */
+  .header__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Style for the navigation menu */
+  .header__nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style for navigation menu items (links) */
+  .header__item {
+    display: inline-block;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #fff; /* Link text color */
+    font-size: 18px;
+    transition: color 0.3s ease; /* Add a smooth color transition on hover */
+  
+    /* Style for link hover effect */
+    :hover {
+      color: #D4C17F; /* Change to your desired hover color */
+    }
+  }
+  
